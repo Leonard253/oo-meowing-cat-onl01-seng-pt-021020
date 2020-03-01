@@ -3,4 +3,4 @@ class Cat
   attr_accessor :name
 end
 
-name.meow = Cat.new
+meow = Cat.new
